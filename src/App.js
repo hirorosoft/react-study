@@ -23,4 +23,10 @@ function App() {
   );
 }
 
+class Clock extends React.Component {
+  render() {
+    return <p>ウヒョヒョ</p>
+  }
+}
+
 export default App;
